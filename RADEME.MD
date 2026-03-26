@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil 
 
  <div>
    <a href="https://github.com/Evellyn-alenca">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+
  
 <div> 
   style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
